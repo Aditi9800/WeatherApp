@@ -1,0 +1,3 @@
+weather api= "https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&q=lucknow&units=metric&appid=7eec5776b5dd83c5de82a0368ff11bc8
+
+key=7eec5776b5dd83c5de82a0368ff11bc8

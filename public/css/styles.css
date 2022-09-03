@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: "Sofia", sans-serif; */
+}
+body{
+    background-image: url(../views/download.jfif);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.95;
+    color: azure;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+img{
+    height: 50px;
+    width:100%
+}
+.head{
+    padding-top: 0;
+    background-position-x: center;
+}
+h1{
+
+    margin-top: 0;
+    text-align: center;
+    background-color: rgb(148, 148, 233);
+    color: black;
+}
+.footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
